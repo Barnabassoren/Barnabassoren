@@ -1,0 +1,41 @@
+{
+	"folders": [
+		{
+			"name": "GeeksforGeeks practice",
+			"path": "..\\GeeksforGeeks practice"
+		},
+		{
+			"name": "loop in c",
+			"path": "..\\loop in c"
+		},
+		{
+			"name": "array",
+			"path": "."
+		},
+		{
+			"name": "string",
+			"path": "..\\string"
+		},
+		{
+			"name": "function and recursion",
+			"path": "..\\function and recursion"
+		},
+		{
+			"name": "newpractice",
+			"path": "..\\newpractice"
+		},
+		{
+			"name": "practice",
+			"path": "..\\practice"
+		},
+		{
+			"path": "..\\Dynamicmemoryallocation"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"string.h": "c"
+		}
+	}
+}
