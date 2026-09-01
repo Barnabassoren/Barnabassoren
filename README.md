@@ -58,23 +58,3 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=barnabassoren&theme=flat&column=6" alt="barnabassoren trophies" />
-  </a>
-</p>
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=barnabassoren&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=barnabassoren&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=barnabassoren&theme=algolia&hide_border=true" alt="Streak Stats" />
-</p>
